@@ -1,6 +1,9 @@
 ## 🔐 Password Manager (Tkinter GUI)
 A simple yet powerful **Password Manager** built with **Python** and **Tkinter**. This app allows you to securely generate, save, and search for passwords, while storing them in a local `data.json` file. It also supports one-click password copying to the clipboard using `pyperclip`.
 
+![image](https://github.com/user-attachments/assets/83881913-a419-4c40-800c-bc796e14d36c)
+
+
 ---
 
 ## 📌 Features
